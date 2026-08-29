@@ -29,3 +29,8 @@
 ## 医学类
 
 - [医生](docs/medicine/doctor.md)
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
